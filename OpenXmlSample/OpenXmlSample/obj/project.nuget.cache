@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "3a+QkmlpPfkexHBrOYz2vZ+G4SCZFGegSxauGeOQPYTB0Q/bno2aBBhYAKdJnZ5VtdH10cmQ/Y3BaTMlqnIEWA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Lenovo\\Desktop\\WebDavSample\\aspdotnetOpenXml\\OpenXmlSample\\OpenXmlSample\\OpenXmlSample.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Lenovo\\.nuget\\packages\\documentformat.openxml\\2.17.1\\documentformat.openxml.2.17.1.nupkg.sha512",
+    "C:\\Users\\Lenovo\\.nuget\\packages\\system.io.packaging\\4.7.0\\system.io.packaging.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
